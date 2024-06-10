@@ -10,6 +10,6 @@
     
   </div>
 
-  ![snake gif](https://github.com/DudaPereira/DudaPereira/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif]([https://github.com/DudaPereira/DudaPereira.git/blob/output/github-contribution-grid-snake.svg)
 
   
